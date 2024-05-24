@@ -14,3 +14,10 @@ Created : Friday, May 24, 2024
 - splash screen, Login Page, Home Page and profile page.
 
 ![Frame 25](https://github.com/Agustian2/redesign_ui/assets/149574596/0be7df8e-27a0-4b8e-9ce2-443265729038)
+#
+Created : Friday, May 24, 2024
+- Create UI Android for Traveling Apps Using Figma
+- Access Figma Design Here : [https://bit.ly/TravelingPlace](https://www.figma.com/design/o3ofCtFTyryg9Mo0ESLEL2/traveling?t=c3sDXsgoAJpztezO-0)
+- splash screen, Login Page, Home Page and detail page.
+
+![Frame 1 (1)](https://github.com/Agustian2/redesign_ui/assets/149574596/1d46d72d-19b8-4d5d-855a-cfea600ffc13)
